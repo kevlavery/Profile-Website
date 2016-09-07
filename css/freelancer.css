@@ -40,6 +40,10 @@ h6 {
     font-weight: 700;
 }
 
+.project h3{
+    margin: auto;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
