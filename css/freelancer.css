@@ -75,11 +75,11 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #3f2860;
+    border-color: #2C3E50;
 }
 
 hr.star-primary:after {
-    color: #3f2860;
+    color: #2C3E50;
     background-color: #fff;
 }
 
@@ -198,7 +198,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #3f2860;
+    color: #2C3E50;
 }
 
 @media(max-width:767px) {
@@ -324,7 +324,7 @@ section.success a.active {
     transition: top .3s ease,opacity .3s ease;
 }
 
-.floating-label-form-group::not(:first-child) {
+.floating-label-form-group:not(:first-child) {
     padding-left: 14px;
     border-left: 1px solid #eee;
 }
@@ -352,7 +352,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #3f2860;
+    background-color: #2C3E50;
 }
 
 footer .footer-col {
@@ -445,7 +445,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #3f2860;
+    background-color: #2C3E50;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -455,7 +455,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #3f2860;
+    background-color: #2C3E50;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
