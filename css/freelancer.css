@@ -402,6 +402,10 @@ footer .footer-below {
     outline: 0;
 }
 
+.personalDetails {
+    padding: 0px 30px;
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
