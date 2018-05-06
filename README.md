@@ -1,2 +1,2 @@
 # Profile-Website
-Website outlining my work portfolio.
+Github Pages website outlining my work portfolio.
